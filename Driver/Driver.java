@@ -24,6 +24,10 @@ public class Driver {
 //            System.out.println("Table created successfully");  
 //              
 //            stmt.close();  
+            
+            
+            
+            
             c.commit();  
             c.close();  
         } catch (Exception e) {  
